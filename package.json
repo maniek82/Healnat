@@ -1,0 +1,17 @@
+{
+  "name": "Healnat",
+  "version": "1.0.0",
+  "description": "Landing page for Healnat",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": " sass sass/main.scss css/style.css -w"
+  },
+  "author": "maniek",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
