@@ -1,0 +1,11 @@
+http://paletton.com
+https://css-tricks.com
+https://specificity.keegan.st/
+https://darekkay.com/dev/flexbox-cheatsheet.html
+http://flexboxfroggy.com/
+https://caniuse.com/
+http://shouldiprefix.com/
+https://www.w3schools.com/cssref/css3_browsersupport.asp
+https://robots.thoughtbot.com/transitions-and-transforms
+
+
