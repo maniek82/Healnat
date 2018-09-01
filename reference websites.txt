@@ -7,5 +7,9 @@ https://caniuse.com/
 http://shouldiprefix.com/
 https://www.w3schools.com/cssref/css3_browsersupport.asp
 https://robots.thoughtbot.com/transitions-and-transforms
-
+https://daneden.github.io/animate.css/
+https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
+https://startbootstrap.com/template-categories/all/
+http://www.mashup-template.com/templates.html
+https://mdbootstrap.com/freebies/   !!! ready to use templates
 
