@@ -12,4 +12,6 @@ https://www.creative-tim.com/bootstrap-themes/ui-kit?direction=asc&sort=price
 https://startbootstrap.com/template-categories/all/
 http://www.mashup-template.com/templates.html
 https://mdbootstrap.com/freebies/   !!! ready to use templates
-
+https://code.luasoftware.com/tutorials/web-development/tachyon-css-cheatsheet/ - tachyons cheatsheet
+http://www.thatjsdude.com/interview/js1.html - ALGORYTHMS
+https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038 - ALGORYTHMS
